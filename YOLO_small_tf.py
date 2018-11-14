@@ -23,6 +23,7 @@ class YOLO_TF:
 
 	w_img = 640
 	h_img = 480
+	# vxcvxcvc
 
 	def __init__(self,argvs = []):
 		self.argv_parser(argvs)
